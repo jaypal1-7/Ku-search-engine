@@ -27,7 +27,7 @@ This project implements a search engine that crawls web pages, processes them, a
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/information-retrieval-system.git](https://github.com/your-username/information-retrieval-system.git)
+    git clone [https://github.com/jaypal1-7/Ku-search-engine.git](https://github.com/jaypal1-7/Ku-search-engine.git)
     ```
 2.  Install dependencies:
     ```bash
